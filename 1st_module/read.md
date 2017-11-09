@@ -4,10 +4,9 @@
 n ≤ 107.
 
 
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
+IN  | OUT
+--- | ----
+35  | 7 28
 
 
      IN       |    OUT
